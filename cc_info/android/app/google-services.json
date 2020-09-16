@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "879826437693",
+    "firebase_url": "https://convenientscience.firebaseio.com",
+    "project_id": "convenientscience",
+    "storage_bucket": "convenientscience.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879826437693:android:b07224d666eb17222bcc54",
+        "android_client_info": {
+          "package_name": "onl.steve.cc_info"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879826437693-1ujv6kpijvdepu3o3q68t2dcmfvj4qie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy1sCqBanXmkQWF5Q-ArlCZ_YNFODUdi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879826437693-1ujv6kpijvdepu3o3q68t2dcmfvj4qie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
